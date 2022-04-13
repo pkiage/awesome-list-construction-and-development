@@ -19,6 +19,8 @@
 
 [Physical Planning - Ministry of Lands & Physical Planning](https://lands.go.ke/physical-planning/)
 
+[United Nations Standard Products and Services Code (UNSPSC)](https://www.ungm.org/Public/UNSPSC)
+
 # Project Stages & Completion Levels
 ## [Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs) 
 ### 2 Levels of Completion
