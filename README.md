@@ -2,11 +2,15 @@
 
 [Air Mobility Command Landscape Design Guide](https://www.wbdg.org/FFC/AF/AFDG/ARCHIVES/landscape.pdf)
 
+[Global Product Classification (GPC)](https://gpc-browser.gs1.org/)
+
 [MasterFormat GROUPS, SUBGROUPS, AND DIVISIONS - 2018](https://www.designingbuildings.co.uk/wiki/MasterFormat)
 
 [UK NHBC Building Standards](https://www.nhbc.co.uk/builders/products-and-services/techzone/nhbc-standards)
 
 [Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs)
+
+[United Nations Standard Products and Services Code (UNSPSC)](https://www.ungm.org/Public/UNSPSC)
 
 [Whole Building Design Code Taxonomy](https://www.wbdg.org/additional-resources/code-taxonomy)
 
@@ -19,7 +23,7 @@
 
 [Physical Planning - Ministry of Lands & Physical Planning](https://lands.go.ke/physical-planning/)
 
-[United Nations Standard Products and Services Code (UNSPSC)](https://www.ungm.org/Public/UNSPSC)
+
 
 # Project Stages & Completion Levels
 ## [Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs) 
