@@ -15,6 +15,8 @@
 
 [Kenya Planning and Building Regulations 2009](https://www.kpda.or.ke/documents/Policies/Building%20Code%202006.pdf)
 
+[Kenya Public Procurement Regulatory Authority (PPRA) Market Price Index](https://ppra.go.ke/market-price-index/)
+
 [Physical Planning - Ministry of Lands & Physical Planning](https://lands.go.ke/physical-planning/)
 
 # Project Stages & Completion Levels
