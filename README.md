@@ -14,44 +14,50 @@
 
 [Whole Building Design Code Taxonomy](https://www.wbdg.org/additional-resources/code-taxonomy)
 
+## Building Type
+[Health facility](https://github.com/pkiage/repository-health-facility)
+
 ## ISO
 [ISO and construction](https://www.iso.org/files/live/sites/isoorg/files/store/en/PUB100317.pdf)
 
-### ISO Technical Committees
+### [ISO Technical Committees](https://www.iso.org/technical-committees.html)
+
+[ISO technical committee strategic business plans](https://isotc.iso.org/livelink/livelink/fetch/2000/2122/687806/customview.html?func=ll&objId=687806&objAction=browse&sort=name)
+
 #### Structures
-ISO/TC 98, Bases for design of structures 
-ISO/TC 167 , Steel and aluminium structures
-ISO/TC 165 , Timber structures
-ISO/TC 182, Geotechnics
+- [ISO/TC 98, Bases for design of structures](https://www.iso.org/committee/50930.html)
+- [ISO/TC 165 , Timber structures](https://www.iso.org/committee/53584.html)
+- [ISO/TC 167 , Steel and aluminium structures](https://www.iso.org/committee/53616.html)
+- [ISO/TC 182, Geotechnics](https://www.iso.org/committee/54054.html)
 
 #### Energy performance and sustainability
-ISO/TC 163, Thermal performance and energy use in the built environment
-ISO/TC 205, Building environment design
+- [ISO/TC 163, Thermal performance and energy use in the built environment](https://www.iso.org/committee/53476.html)
+- [ISO/TC 205, Building environment design](https://www.iso.org/committee/54740.html)
 
 #### Fire safety and fire fighting
-ISO/TC 21, Equipment for fire protection and fire fighting
-ISO/TC 92, Fire safety
-ISO 7240, Fire detection and alarm systems
+- [ISO/TC 21, Equipment for fire protection and fire fighting](https://www.iso.org/committee/46628.html)
+- [ISO/TC 92, Fire safety](https://www.iso.org/committee/50492.html)
 
 #### Information management in construction
-ISO/TC 59/SC 13, Organization of information about construction works
+[ISO/TC 59	Buildings and civil engineering works](https://www.iso.org/committee/49070.html)
+- [ISO/TC 59/SC 13, Organization of information about construction works](https://www.iso.org/committee/49180.html)
 
 #### Lifts and escalators
-ISO/TC 178, Lifts, escalators and moving walks
+- [ISO/TC 178, Lifts, escalators and moving walks](https://www.iso.org/committee/53970.html)
 
 #### Design life, durability and service life planning
-ISO/TC 59/SC 14, Design life
+[ISO/TC 59	Buildings and civil engineering works](https://www.iso.org/committee/49070.html)
+- [ISO/TC 59/SC 14, Design life](https://www.iso.org/committee/49192.html)
 
 ### ISO Standards and/or Projects
 [ICS 91 CONSTRUCTION MATERIALS AND BUILDING](https://www.iso.org/ics/91/x/)
 Examples of standards under ICS 91:
 - [ISO 21930, Sustainability in buildings and civil engineering works – Core rules for environmental product declarations of construction products and services](https://www.iso.org/standard/61694.html)
+- [ISO 7240, Fire detection and alarm systems](https://www.iso.org/standard/67746.html)
 - [ISO 16757-1, Data structures for electronic product catalogues for building services – Part 1: Concepts, architecture and model](https://www.iso.org/standard/57613.html)
 - [ISO/TS 12911, Framework for building information modelling (BIM) guidance](https://www.iso.org/standard/52155.html)
 - [ISO/TS 18870, Lifts (elevators) – Requirements for lifts used to assist in building evacuation](https://www.iso.org/standard/63641.html)
 - [ISO 15686-5, Buildings and constructed assets – Service life planning – Part 5: Life-cycle costing](https://www.iso.org/standard/61148.html)
-
-
 
 ## Kenya
 [Kenya Building Order 1968](https://eregulations.invest.go.ke/media/BUILDING%20CODE.pdf)
