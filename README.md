@@ -60,13 +60,13 @@ Examples of standards under ICS 91:
 - [ISO 15686-5, Buildings and constructed assets – Service life planning – Part 5: Life-cycle costing](https://www.iso.org/standard/61148.html)
 
 ## Kenya
-[Kenya Building Order 1968](https://eregulations.invest.go.ke/media/BUILDING%20CODE.pdf)
+- [Kenya Building Order 1968](https://eregulations.invest.go.ke/media/BUILDING%20CODE.pdf)
+- [Kenya Planning and Building Regulations 2009](https://www.kpda.or.ke/documents/Policies/Building%20Code%202006.pdf)
+- [Physical Planning - Ministry of Lands & Physical Planning](https://lands.go.ke/physical-planning/)
 
-[Kenya Planning and Building Regulations 2009](https://www.kpda.or.ke/documents/Policies/Building%20Code%202006.pdf)
-
-[Kenya Public Procurement Regulatory Authority (PPRA) Market Price Index](https://ppra.go.ke/market-price-index/)
-
-[Physical Planning - Ministry of Lands & Physical Planning](https://lands.go.ke/physical-planning/)
+### Price Index
+- [Kenya Public Procurement Regulatory Authority (PPRA) Market Price Index](https://ppra.go.ke/market-price-index/)
+- [Integrum-Construction Costs In Kenya 2022 Index – Building Rates Per Square Metre](https://integrum.co.ke/construction-costs-in-kenya-2022-index-528/)
 
 ### Tax
 - [Types of Tax in Kenya](https://www.kra.go.ke/en/business/societies/paying-taxes/societies-types-of-taxes)
@@ -103,24 +103,15 @@ Examples of standards under ICS 91:
 7. **Level 7 (Site Finishes Level)** - Exhibit final driveway, walks, exterior stairs, final concrete and asphalt finished surface treatment, topsoil quality and application, sodding/seeding of lawn, tree and shrub planting, landscaping beds, playground fall areas and playground equipment. Contracting Officer retains the right to inspect all preparation and installation of pavings. Provide adequate notice to the Contracting Officer prior to commencing paving work.
 
 # Organizations
-[Construction Specifications Institute (CSI)](https://www.csiresources.org/home)
-
-[Institute of Electrical and Electronics Engineers (IEEE) ](https://www.ieee.org/)
-
-[International Association of Plumbing and Mechanical Officials (IAPMO)](https://www.iapmo.org/)
-
-[International Code Council (ICC)](https://www.iccsafe.org/)
-
-[International Existing Building Code (IEBC)](https://www.designingbuildings.co.uk/wiki/International_Existing_Building_Code_%28IEBC%29)
-
-[International Residential Code (IRC)](https://www.designingbuildings.co.uk/wiki/International_Residential_Code_%28IRC%29)
-
-[The Kenya Property Developers Association (KPDA)](https://www.kpda.or.ke/)
-
-[UN Habitat](https://unhabitat.org/)
-
-[World Organisation of Building Officials (WOBO)](https://wobo-un.org/about/)
-
+- [Construction Specifications Institute (CSI)](https://www.csiresources.org/home)
+- [Institute of Electrical and Electronics Engineers (IEEE) ](https://www.ieee.org/)
+- [International Association of Plumbing and Mechanical Officials (IAPMO)](https://www.iapmo.org/)
+- [International Code Council (ICC)](https://www.iccsafe.org/)
+- [International Existing Building Code (IEBC)](https://www.designingbuildings.co.uk/wiki/International_Existing_Building_Code_%28IEBC%29)
+- [International Residential Code (IRC)](https://www.designingbuildings.co.uk/wiki/International_Residential_Code_%28IRC%29)
+- [The Kenya Property Developers Association (KPDA)](https://www.kpda.or.ke/)
+- [UN Habitat](https://unhabitat.org/)
+- [World Organisation of Building Officials (WOBO)](https://wobo-un.org/about/)
 
 # Common Abbreviations & Phrases
 ## Abbreviations
