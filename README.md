@@ -59,6 +59,8 @@ Examples of standards under ICS 91:
 #### Acts, Chapters, Regulations, Orders, & Notices
 [Current Act Numbers and Proposed Chapter Numbers upon publication of 'revision of laws order' by Attorney-General](http://kenyalaw.org/kl/index.php?id=3504)
 
+[Laws of Kenya Search](http://kenyalaw.org:8181/exist/kenyalex/index.xql)
+
 - [Physical Planning - Ministry of Lands & Physical Planning](https://lands.go.ke/physical-planning/)
   - Physical and Land use Planning (Planning fees), Regulation 2021
   - Physical and Land Use Planning (Local Physical and Land Use Development Plan) Regulations, 2021
@@ -76,7 +78,8 @@ Examples of standards under ICS 91:
 - [Kenya Building Order 1968](https://eregulations.invest.go.ke/media/BUILDING%20CODE.pdf)
 - [Kenya Planning and Building Regulations 2009](https://www.kpda.or.ke/documents/Policies/Building%20Code%202006.pdf)
 - [The Land Registration Act,2021 No.3 of 2012](https://eregulations.invest.go.ke/media/Land_Registration_Act___No_3_of_2012_.pdf)
-- [National Construction Authority Act No.41 of 2011](https://eregulations.invest.go.ke/media/NationalConstructionAuthorityAct_No41of2011.pdf)
+- [National Construction Authority Act 41 of 2011](http://kenyalaw.org:8181/exist/kenyalex/sublegview.xql?subleg=No.%2041%20of%202011)
+  - [National Construction Authority Act No.41 of 2011 - Revised Edition 2012](https://eregulations.invest.go.ke/media/NationalConstructionAuthorityAct_No41of2011.pdf)
 - [Rating Act Chapter 267 Revised Edition 2012 (1986)](https://eregulations.invest.go.ke/media/RatingAct20of1964.pdf)
 - [Valuation for Rating Act Chapter 266 Revised Edition 2015 (1984)](https://eregulations.invest.go.ke/media/ValuationForRatingAct18of1956.pdf)
 - [The Registration of Titles Act Chapter 281 Revised Edition 2010 (1982)](https://eregulations.invest.go.ke/media/RegistrationofTitlesCap281.pdf)
