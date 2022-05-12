@@ -154,5 +154,4 @@ Examples of standards under ICS 91:
 ## Kenya
 - [Kenya Alliance of Resident Associations (Kara)](https://www.kara.or.ke/)
 - [The Kenya Property Developers Association (KPDA)](https://www.kpda.or.ke/)
-
 - [National Construction Authority](https://nca.go.ke/)
