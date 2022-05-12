@@ -99,7 +99,7 @@ Examples of standards under ICS 91:
   - [2016 LN 150-Environmental Management and Co-ordination Act (Replacement of the Second Schedule), 2016](http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2016/LN150_2016.pdf)
 - [2003 National Assembly Legal Notice 101-Environmental Act (Impact Assessment and Audit) Regulations](http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2003/101-EnvironmentalManagementandCo-ordinationAct_ImpactAssessmentandAudit_Regulations_2003.pdf)
 - [2009 National Assembly Legal Notice 30-Environmental (Impact Assessment and Audit)(Amendment) Regulations, 2009](http://kenyalaw.org/kl/index.php?id=717)
-- [Environmental Management and Co-ordination Act No.8 of 1999 (Chapter)](http://kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=No.%208%20of%201999)
+- [Environmental Management and Co-ordination Act No.8 of 1999 (Chapter 387)](http://kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=No.%208%20of%201999)
   - [2015 Legislation - Environmental Management and Co-ordination (Amendment) Act No. 5 of 2015](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/2015/EnvironmentalManagementandCo-ordination_Amendment_Act_2015_No5of2015_.pdf)
 - [Constitution of Kenya,2010 - Chapter Five - Land and Environment](http://www.kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=Const2010#part_VI)
 
@@ -157,24 +157,4 @@ Examples of standards under ICS 91:
 ## Kenya
 - [Kenya Alliance of Resident Associations (Kara)](https://www.kara.or.ke/)
 - [The Kenya Property Developers Association (KPDA)](https://www.kpda.or.ke/)
-
 - [National Construction Authority](https://nca.go.ke/)
-
-# Common Abbreviations & Phrases
-## Abbreviations
-- a.b.d - Shall mean as before described
-- AEC - Architecture, engineering, and construction
-- B.S. - Shall mean the British Standard Specification Published by the British Standards Institution, 2 Park Street, London W.I., England. 
-- C.M. - Shall mean cubic metre 
-- Kg. - Shall mean Kilogramme 
-- L.M. - Shall mean linear metre 
-- MEP - Mechnical, Electrical, and Plumbing
-- MM - Shall mean Millimetre 
-- m.s. - Shall mean measured separately.
-- No. - Shall mean Number 
-- Prs. - Shall mean Pairs 
-- S.M. - Shall mean square metre 
-
-## Phrases
-- Ditto - Shall mean the whole of the preceding description except as qualified in the description in which it occurs. 
-- Mutatis mutandis - (used when comparing two or more cases or situations) making necessary alterations while not affecting the main point at issue.
