@@ -1,18 +1,12 @@
 # Guidelines, Standards, Specifications, Codes, & Taxonomies
 
-[Air Mobility Command Landscape Design Guide](https://www.wbdg.org/FFC/AF/AFDG/ARCHIVES/landscape.pdf)
-
-[Global Product Classification (GPC)](https://gpc-browser.gs1.org/)
-
-[MasterFormat GROUPS, SUBGROUPS, AND DIVISIONS - 2018](https://www.designingbuildings.co.uk/wiki/MasterFormat)
-
-[UK NHBC Building Standards](https://www.nhbc.co.uk/builders/products-and-services/techzone/nhbc-standards)
-
-[Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs)
-
-[United Nations Standard Products and Services Code (UNSPSC)](https://www.ungm.org/Public/UNSPSC)
-
-[Whole Building Design Code Taxonomy](https://www.wbdg.org/additional-resources/code-taxonomy)
+- [Air Mobility Command Landscape Design Guide](https://www.wbdg.org/FFC/AF/AFDG/ARCHIVES/landscape.pdf)
+- [Global Product Classification (GPC)](https://gpc-browser.gs1.org/)
+- [MasterFormat GROUPS, SUBGROUPS, AND DIVISIONS - 2018](https://www.designingbuildings.co.uk/wiki/MasterFormat)
+- [UK NHBC Building Standards](https://www.nhbc.co.uk/builders/products-and-services/techzone/nhbc-standards)
+- [Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs)
+- [United Nations Standard Products and Services Code (UNSPSC)](https://www.ungm.org/Public/UNSPSC)
+- [Whole Building Design Code Taxonomy](https://www.wbdg.org/additional-resources/code-taxonomy)
 
 ## Building Type
 [Health facility](https://github.com/pkiage/repository-health-facility)
@@ -61,9 +55,53 @@ Examples of standards under ICS 91:
 - [ISO 15686-5, Buildings and constructed assets – Service life planning – Part 5: Life-cycle costing](https://www.iso.org/standard/61148.html)
 
 ## Kenya
+
+#### Acts, Chapters, Regulations, Orders, & Notices
+[Current Act Numbers and Proposed Chapter Numbers upon publication of 'revision of laws order' by Attorney-General](http://kenyalaw.org/kl/index.php?id=3504)
+
+- [Physical Planning - Ministry of Lands & Physical Planning](https://lands.go.ke/physical-planning/)
+  - Physical and Land use Planning (Planning fees), Regulation 2021
+  - Physical and Land Use Planning (Local Physical and Land Use Development Plan) Regulations, 2021
+  - Physical and Land Use Planning (Institutions) Regulations, 2021
+  - The Physical and Land Use Planning (Liaison Committees) Regulations, 2021
+  - The Physical and Land Use Planning (Development Permission and Control) (General) Regulations,2021
+- [eRegulations Kenya - Land and property](https://eregulations.invest.go.ke/menu/117)
+  - Land rates
+  - Land rent
+  - Land search
+  - Land consents 
+  - Transfer of land
+  - Environmental Impact Assessment Licence
+  - Land cautions
 - [Kenya Building Order 1968](https://eregulations.invest.go.ke/media/BUILDING%20CODE.pdf)
 - [Kenya Planning and Building Regulations 2009](https://www.kpda.or.ke/documents/Policies/Building%20Code%202006.pdf)
-- [Physical Planning - Ministry of Lands & Physical Planning](https://lands.go.ke/physical-planning/)
+- [The Land Registration Act,2021 No.3 of 2012](https://eregulations.invest.go.ke/media/Land_Registration_Act___No_3_of_2012_.pdf)
+- [National Construction Authority Act No.41 of 2011](https://eregulations.invest.go.ke/media/NationalConstructionAuthorityAct_No41of2011.pdf)
+- [Rating Act Chapter 267 Revised Edition 2012 (1986)](https://eregulations.invest.go.ke/media/RatingAct20of1964.pdf)
+- [Valuation for Rating Act Chapter 266 Revised Edition 2015 (1984)](https://eregulations.invest.go.ke/media/ValuationForRatingAct18of1956.pdf)
+- [The Registration of Titles Act Chapter 281 Revised Edition 2010 (1982)](https://eregulations.invest.go.ke/media/RegistrationofTitlesCap281.pdf)
+- [Land Control Act Chapter 302 Revised Edition 2012 (2010)](https://eregulations.invest.go.ke/media/LandControlAct34of1967.pdf)
+- [Land Control Act Chapter 302 Subsidiary Legislation](https://eregulations.invest.go.ke/media/LandControlAct34of1967_subsidairy.pdf)
+- [Advocates Act Chapter 16 Revised Edition 2012 (1989)](https://eregulations.invest.go.ke/media/AdvocatesAct18of1989.pdf)
+- [Advocates Remuneration Order 2014](https://eregulations.invest.go.ke/media/Advocates%20Remunneration%20Order,2014.pdf)
+- [Kenya Revenue Authority Public Notice](https://eregulations.invest.go.ke/media/KRA-Public-Notice-on-CGT-and-Stamp-Duty-Payments.pdf)
+- [The Land Act No.6 of 2012](http://www.parliament.go.ke/sites/default/files/2017-05/LandAct2012.pdf)
+- [Registration of Titles ( Fees) Rules 2010 - Legal Notice No.6](http://kenyalaw.org/kl/index.php?id=746#jfmulticontent_c7173-8)
+- [Registration of transfer of land checklist](https://eregulations.invest.go.ke/media/Registration-of-transfer-of-Land-revised_1.pdf)
+- [Stamp Duty Act Chapter 480 Revised Edition 2012](https://eregulations.invest.go.ke/media/StampDuty-min.pdf)
+- [The Physical and Land Use Planning Act - No.13 of 2018](https://eregulations.invest.go.ke/media/PhysicalandLandUsePlanningAct_No13of2019.pdf)
+- [Environmental Impact Assessment and Audit (Amendment) Regulations 2016](https://rise.esmap.org/data/files/library/kenya/Energy%20Access/EA%2021.3A%20Environmental%20Management%20Coordination%20Act,%20No%208%20of%201999.pdf)
+- [2016 National Assembly Legal Notices 149 and 150](http://kenyalaw.org/kl/index.php?id=6181)
+  - [2016 LN 149-Environmental Management and Co-ordination (Impact Assessment and Audit)(Amendment) Regulations, 2016](http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2016/LN149_2016.pdf)
+  - [2016 LN 150-Environmental Management and Co-ordination Act (Replacement of the Second Schedule), 2016](http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2016/LN150_2016.pdf)
+- [2003 National Assembly Legal Notice 101-Environmental Act (Impact Assessment and Audit) Regulations](http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2003/101-EnvironmentalManagementandCo-ordinationAct_ImpactAssessmentandAudit_Regulations_2003.pdf)
+- [2009 National Assembly Legal Notice 30-Environmental (Impact Assessment and Audit)(Amendment) Regulations, 2009](http://kenyalaw.org/kl/index.php?id=717)
+- [Environmental Management and Co-ordination Act No.8 of 1999 (Chapter)](http://kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=No.%208%20of%201999)
+  - [2015 Legislation - Environmental Management and Co-ordination (Amendment) Act No. 5 of 2015](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/2015/EnvironmentalManagementandCo-ordination_Amendment_Act_2015_No5of2015_.pdf)
+- [Constitution of Kenya,2010 - Chapter Five - Land and Environment](http://www.kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=Const2010#part_VI)
+
+#### Forms
+- [APPLICATION FORM FOR CONTRACTOR’S REGISTRATION- (KENYAN FIRMS) – REGULATION 3 and 4](https://eregulations.invest.go.ke/media/contractors%20registration%20form.pdf)
 
 ### Price Index
 - [Kenya Public Procurement Regulatory Authority (PPRA) Market Price Index](https://ppra.go.ke/market-price-index/)
@@ -79,7 +117,6 @@ Examples of standards under ICS 91:
 - [Common External Tariff 2007 - East African Community](https://infotradekenya.go.ke/media/EAC%20Externaltariff2007-3.pdf)
 - [Finance Act, 2021 - Kenya Gazette Supplement No.128 (Acts No.8)](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/2021/TheFinanceAct_No.8of2021.pdf)
 - [Customs and Excise Act - CAP 472 Rev.2010](https://infotradekenya.go.ke/media/Customs%20Act%202010_1.pdf)
-
 
 #### Commented
 - [The Tax Laws (Amendendment) Act, No.2 of 2020 - with comments by Deloitte](https://www2.deloitte.com/content/dam/Deloitte/ke/Documents/tax/Tax%20Laws%20Amendment%20Act%202020.pdf)
@@ -104,15 +141,21 @@ Examples of standards under ICS 91:
 7. **Level 7 (Site Finishes Level)** - Exhibit final driveway, walks, exterior stairs, final concrete and asphalt finished surface treatment, topsoil quality and application, sodding/seeding of lawn, tree and shrub planting, landscaping beds, playground fall areas and playground equipment. Contracting Officer retains the right to inspect all preparation and installation of pavings. Provide adequate notice to the Contracting Officer prior to commencing paving work.
 
 # Organizations
+## International
 - [Construction Specifications Institute (CSI)](https://www.csiresources.org/home)
 - [Institute of Electrical and Electronics Engineers (IEEE) ](https://www.ieee.org/)
 - [International Association of Plumbing and Mechanical Officials (IAPMO)](https://www.iapmo.org/)
 - [International Code Council (ICC)](https://www.iccsafe.org/)
 - [International Existing Building Code (IEBC)](https://www.designingbuildings.co.uk/wiki/International_Existing_Building_Code_%28IEBC%29)
 - [International Residential Code (IRC)](https://www.designingbuildings.co.uk/wiki/International_Residential_Code_%28IRC%29)
-- [The Kenya Property Developers Association (KPDA)](https://www.kpda.or.ke/)
 - [UN Habitat](https://unhabitat.org/)
 - [World Organisation of Building Officials (WOBO)](https://wobo-un.org/about/)
+
+## Kenya
+- [Kenya Alliance of Resident Associations (Kara)](https://www.kara.or.ke/)
+- [The Kenya Property Developers Association (KPDA)](https://www.kpda.or.ke/)
+
+- [National Construction Authority](https://nca.go.ke/)
 
 # Common Abbreviations & Phrases
 ## Abbreviations
