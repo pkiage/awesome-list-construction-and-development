@@ -2,8 +2,10 @@
 
 - [Air Mobility Command Landscape Design Guide](https://www.wbdg.org/FFC/AF/AFDG/ARCHIVES/landscape.pdf)
 - [Global Product Classification (GPC)](https://gpc-browser.gs1.org/)
+- [Guidance Note on Evaluating Projects with Affected Indigenous Peoples - Equator Principles](https://equator-principles.com/app/uploads/Affected_Indigenous_People_Sep2020.pdf)
 - [MasterFormat GROUPS, SUBGROUPS, AND DIVISIONS - 2018](https://www.designingbuildings.co.uk/wiki/MasterFormat)
 - [Operational Guidance on Free, Prior and Informed Consent - Accountability Framework](https://accountability-framework.org/operational-guidance/free-prior-and-informed-consent/)
+- [USAID Guidance on Monitoring Free, Prior, and Informed Consent (FPIC)](https://www.usaid.gov/sites/default/files/documents/Guidance-on-Monitoring-FPIC.pdf)
 - [UK NHBC Building Standards](https://www.nhbc.co.uk/builders/products-and-services/techzone/nhbc-standards)
 - [Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs)
 - [Unified Master Reference List (UMRL)](https://www.wbdg.org/FFC/DOD/UMRL/UMRL.pdf)
