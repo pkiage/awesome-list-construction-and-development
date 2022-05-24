@@ -3,11 +3,12 @@
 - [Air Mobility Command Landscape Design Guide](https://www.wbdg.org/FFC/AF/AFDG/ARCHIVES/landscape.pdf)
 - [Global Product Classification (GPC)](https://gpc-browser.gs1.org/)
 - [MasterFormat GROUPS, SUBGROUPS, AND DIVISIONS - 2018](https://www.designingbuildings.co.uk/wiki/MasterFormat)
+- [Operational Guidance on Free, Prior and Informed Consent - Accountability Framework](https://accountability-framework.org/operational-guidance/free-prior-and-informed-consent/)
 - [UK NHBC Building Standards](https://www.nhbc.co.uk/builders/products-and-services/techzone/nhbc-standards)
 - [Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs)
+- [Unified Master Reference List (UMRL)](https://www.wbdg.org/FFC/DOD/UMRL/UMRL.pdf)
 - [United Nations Standard Products and Services Code (UNSPSC)](https://www.ungm.org/Public/UNSPSC)
 - [Whole Building Design Code Taxonomy](https://www.wbdg.org/additional-resources/code-taxonomy)
-
 ## Building Type
 [Health facility](https://github.com/pkiage/repository-health-facility)
 
@@ -55,6 +56,8 @@ Examples of standards under ICS 91:
 - [ISO 15686-5, Buildings and constructed assets – Service life planning – Part 5: Life-cycle costing](https://www.iso.org/standard/61148.html)
 
 ## Kenya
+
+[County Public Participation Guidelines - Ministry of Devolution and Planning & Council of Governors](https://countytoolkit.devolution.go.ke/sites/default/files/resources/county-public-participation_january-2016.pdf)
 
 #### Acts, Chapters, Regulations, Orders, & Notices
 [Current Act Numbers and Proposed Chapter Numbers upon publication of 'revision of laws order' by Attorney-General](http://kenyalaw.org/kl/index.php?id=3504)
