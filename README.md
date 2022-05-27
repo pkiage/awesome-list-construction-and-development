@@ -92,7 +92,7 @@ Examples of standards under ICS 91:
 - [Land Control Act Chapter 302 Subsidiary Legislation](https://eregulations.invest.go.ke/media/LandControlAct34of1967_subsidairy.pdf)
 - [Advocates Act Chapter 16 Revised Edition 2012 (1989)](https://eregulations.invest.go.ke/media/AdvocatesAct18of1989.pdf)
 - [Advocates Remuneration Order 2014](https://eregulations.invest.go.ke/media/Advocates%20Remunneration%20Order,2014.pdf)
-- [Kenya Revenue Authority Public Notice](https://eregulations.invest.go.ke/media/KRA-Public-Notice-on-CGT-and-Stamp-Duty-Payments.pdf)
+- [Kenya Revenue Authority Public Notice on Stamp Duty and Cpaital Gains Tax (CGT) roll out effective 1st October 2016](https://eregulations.invest.go.ke/media/KRA-Public-Notice-on-CGT-and-Stamp-Duty-Payments.pdf)
 - [The Land Act No.6 of 2012](http://www.parliament.go.ke/sites/default/files/2017-05/LandAct2012.pdf)
 - [Registration of Titles ( Fees) Rules 2010 - Legal Notice No.6](http://kenyalaw.org/kl/index.php?id=746#jfmulticontent_c7173-8)
 - [Registration of transfer of land checklist](https://eregulations.invest.go.ke/media/Registration-of-transfer-of-Land-revised_1.pdf)
