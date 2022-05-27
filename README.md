@@ -147,19 +147,3 @@ Examples of standards under ICS 91:
 5. **Level 5 (Interior Finishes-rough Level)** - Exhibit non-veneer plaster, unspackled and uncaulked wall and ceiling finishes, insulation, interior doors, final locations of all outlets and fixtures.
 6. **Level 6 (Interior Finishes & Fixtures-final Level)** - Exhibit final interior finishes, veneer plaster, painting, caulking, built-in shelving, cabinetwork, cabinet supported sinks, final door hardware, mechanical louvers, final electrical equipment connections, electrical fixtures, freestanding bathroom fixtures, properly functioning appliances, and operation of mechanical and electrical systems.
 7. **Level 7 (Site Finishes Level)** - Exhibit final driveway, walks, exterior stairs, final concrete and asphalt finished surface treatment, topsoil quality and application, sodding/seeding of lawn, tree and shrub planting, landscaping beds, playground fall areas and playground equipment. Contracting Officer retains the right to inspect all preparation and installation of pavings. Provide adequate notice to the Contracting Officer prior to commencing paving work.
-
-# Organizations
-## International
-- [Construction Specifications Institute (CSI)](https://www.csiresources.org/home)
-- [Institute of Electrical and Electronics Engineers (IEEE) ](https://www.ieee.org/)
-- [International Association of Plumbing and Mechanical Officials (IAPMO)](https://www.iapmo.org/)
-- [International Code Council (ICC)](https://www.iccsafe.org/)
-- [International Existing Building Code (IEBC)](https://www.designingbuildings.co.uk/wiki/International_Existing_Building_Code_%28IEBC%29)
-- [International Residential Code (IRC)](https://www.designingbuildings.co.uk/wiki/International_Residential_Code_%28IRC%29)
-- [UN Habitat](https://unhabitat.org/)
-- [World Organisation of Building Officials (WOBO)](https://wobo-un.org/about/)
-
-## Kenya
-- [Kenya Alliance of Resident Associations (Kara)](https://www.kara.or.ke/)
-- [The Kenya Property Developers Association (KPDA)](https://www.kpda.or.ke/)
-- [National Construction Authority](https://nca.go.ke/)
