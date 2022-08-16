@@ -124,6 +124,7 @@ Examples of standards under ICS 91:
 - [Value Added Tax Act No. 35 of 2013](https://www.kra.go.ke/images/publications/ValueAddedTax_ActNo35of2013.pdf)
 - [Common External Tariff 2007 - East African Community](https://infotradekenya.go.ke/media/EAC%20Externaltariff2007-3.pdf)
 - [Finance Act, 2021 - Kenya Gazette Supplement No.128 (Acts No.8)](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/2021/TheFinanceAct_No.8of2021.pdf)
+- [Finance Act, 2022 - Kenya Gazette Supplement No.106 (Acts No.22)](https://kra.go.ke/images/publications/Finance--Act-2022.pdf)
 - [Customs and Excise Act - CAP 472 Rev.2010](https://infotradekenya.go.ke/media/Customs%20Act%202010_1.pdf)
 - [Cap 470 - Income Tax](http://kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=CAP.%20470)
 
