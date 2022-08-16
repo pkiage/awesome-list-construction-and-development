@@ -129,11 +129,19 @@ Examples of standards under ICS 91:
 - [Cap 470 - Income Tax](http://kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=CAP.%20470)
 
 #### Commented
+
+##### 2020
 - [The Tax Laws (Amendendment) Act, No.2 of 2020 - with comments by Deloitte](https://www2.deloitte.com/content/dam/Deloitte/ke/Documents/tax/Tax%20Laws%20Amendment%20Act%202020.pdf)
 - [The Tax Laws (Amendendment) Act, No.2 of 2020 - with comments by EY](https://www.ey.com/en_gl/tax-alerts/kenya-enacts-tax-laws-amendment-act-2020)
 - [The Tax Laws (Amendendment) Act, No.2 of 2020 - with comments by Grant Thornton](https://www.grantthornton.co.ke/globalassets/1.-member-firms/kenya/insights/pdf/grant-thornton-alert---the-tax-laws-amendment-act-2020---final.pdf)
 - [The Tax Laws (Amendendment) Act, No.2 of 2020 - with comments by KPMG](https://assets.kpmg/content/dam/kpmg/ke/pdf/covid-19/KPMG_Analysis_of_the_Tax_Laws_Amendment_Act_2020.pdf)
 - [The Tax Laws (Amendendment) Act, No.2 of 2020 - with comments by pwc](https://www.pwc.com/ke/en/assets/pdf/tax-alert-amendment-act-2020.pdf)
+
+##### 2022
+- [Finance Act 2022 - with comments by Deloitte](https://www2.deloitte.com/content/dam/Deloitte/ke/Documents/tax/Kenya%20Tax%20Alert%20Finance%20Bill%202022.pdf)
+- [Finance Act 2022 - with comments by EY](https://taxnews.ey.com/news/2022-1017-kenya-enacts-finance-act-2022)
+- [Finance Act 2022 - with comments by Grant Thorton](https://mcusercontent.com/ac77383d42d9553dabbe02279/files/f4ee2cc9-7fde-f98c-4517-d22f1b91b598/Grant_Thornton_Tax_Alert_Finance_Act_2022_opt.01.pdf)
+- [Finance Act 2022 - with comments by KPMG](https://assets.kpmg/content/dam/kpmg/ke/pdf/tax/2022/KE%20Finance%20Act%202022%20Analysis%20Final.pdf)
 
 # Project Stages & Completion Levels
 ## [Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs) 
