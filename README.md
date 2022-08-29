@@ -61,7 +61,11 @@ Examples of standards under ICS 91:
 
 ## Kenya
 
-### Law & Government
+### Price Index
+- [Kenya Public Procurement Regulatory Authority (PPRA) Market Price Index](https://ppra.go.ke/market-price-index/)
+- [Integrum-Construction Costs In Kenya 2022 Index – Building Rates Per Square Metre](https://integrum.co.ke/construction-costs-in-kenya-2022-index-528/)
+
+### Law & Government (General)
 
 [County Public Participation Guidelines - Ministry of Devolution and Planning & Council of Governors](https://countytoolkit.devolution.go.ke/sites/default/files/resources/county-public-participation_january-2016.pdf)
 
@@ -114,10 +118,6 @@ Examples of standards under ICS 91:
 
 #### Forms
 - [APPLICATION FORM FOR CONTRACTOR’S REGISTRATION- (KENYAN FIRMS) – REGULATION 3 and 4](https://eregulations.invest.go.ke/media/contractors%20registration%20form.pdf)
-
-### Price Index
-- [Kenya Public Procurement Regulatory Authority (PPRA) Market Price Index](https://ppra.go.ke/market-price-index/)
-- [Integrum-Construction Costs In Kenya 2022 Index – Building Rates Per Square Metre](https://integrum.co.ke/construction-costs-in-kenya-2022-index-528/)
 
 ### Tax
 - [Types of Tax in Kenya](https://www.kra.go.ke/en/business/societies/paying-taxes/societies-types-of-taxes)
