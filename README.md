@@ -61,6 +61,8 @@ Examples of standards under ICS 91:
 
 ## Kenya
 
+### Law & Government
+
 [County Public Participation Guidelines - Ministry of Devolution and Planning & Council of Governors](https://countytoolkit.devolution.go.ke/sites/default/files/resources/county-public-participation_january-2016.pdf)
 
 #### Acts, Chapters, Regulations, Orders, & Notices
