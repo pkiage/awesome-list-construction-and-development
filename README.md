@@ -1,5 +1,7 @@
 # Guidelines, Standards, Specifications, Codes, & Taxonomies
 
+- [Preparing As-Built and Record Documents (Professional Engineers Ontario, 2020](https://www.peo.on.ca/sites/default/files/2020-04/PrepAsBuiltRecordGdln-Mar2020.pdf)
+- [As-built Guidance For Contractors (U.S. Army Corps of Engineers, 2013)](https://www.spa.usace.army.mil/Portals/16/docs/ec/As-Built_Guidance_for_Contractors_20130214.pdf)
 - [Air Mobility Command Landscape Design Guide](https://www.wbdg.org/FFC/AF/AFDG/ARCHIVES/landscape.pdf)
 - [Global Product Classification (GPC)](https://gpc-browser.gs1.org/)
 - [Guidance Note on Evaluating Projects with Affected Indigenous Peoples - Equator Principles](https://equator-principles.com/app/uploads/Affected_Indigenous_People_Sep2020.pdf)
@@ -143,13 +145,13 @@ Examples of standards under ICS 91:
 - [Finance Act 2022 - with comments by Grant Thorton](https://mcusercontent.com/ac77383d42d9553dabbe02279/files/f4ee2cc9-7fde-f98c-4517-d22f1b91b598/Grant_Thornton_Tax_Alert_Finance_Act_2022_opt.01.pdf)
 - [Finance Act 2022 - with comments by KPMG](https://assets.kpmg/content/dam/kpmg/ke/pdf/tax/2022/KE%20Finance%20Act%202022%20Analysis%20Final.pdf)
 
-# Project Stages & Completion Levels
-## [Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs) 
-### 2 Levels of Completion
+## Project Stages & Completion Levels
+### [Unified Facilities Guide Specifications (UFGS)](https://www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs) 
+#### 2 Levels of Completion
 1. **Level 1 (Pre-Finished Level)** - Model unit construction within a completed building exterior must exhibit plumbing, ductwork, electrical locations, exposed framing, and windows. Leave walls and floors unfinished but ready for application of final finish.
 2. **Level 2 (Finished Level)** - Model unit construction must exhibit all materials, completely finished as specified, including fixtures, wall and floor finishes, cabinets, and shelving.
 
-### 7 Levels of Completion
+#### 7 Levels of Completion
 1. **Level 1 (Foundation & Floor Slab Level)** - Clearly demonstrate treatment of earth excavation, testing of underslab mechanical piping, earth compaction, assembly and support of concrete reinforcing, technique of concrete movement and placement, framing of foundation steps, placement of insulation, final exposed concrete finished surface treatment, location outlines of all walls, all slab penetrations, and structural support points.
 2. **Level 2 (Framing Level)** - Clearly exhibit all load bearing and non-load bearing framing, sheathing, anchorage for exterior shell materials, and pre-trim frame-out.
 3. **Level 3 (Exterior Shell Level)** - Exhibit all exterior finishes, windows and doors with temporary hardware, caulking, sealant, sheathing paper, wall ties, locations of mechanical equipment, roofing, louvers, vents and trim.
@@ -157,3 +159,7 @@ Examples of standards under ICS 91:
 5. **Level 5 (Interior Finishes-rough Level)** - Exhibit non-veneer plaster, unspackled and uncaulked wall and ceiling finishes, insulation, interior doors, final locations of all outlets and fixtures.
 6. **Level 6 (Interior Finishes & Fixtures-final Level)** - Exhibit final interior finishes, veneer plaster, painting, caulking, built-in shelving, cabinetwork, cabinet supported sinks, final door hardware, mechanical louvers, final electrical equipment connections, electrical fixtures, freestanding bathroom fixtures, properly functioning appliances, and operation of mechanical and electrical systems.
 7. **Level 7 (Site Finishes Level)** - Exhibit final driveway, walks, exterior stairs, final concrete and asphalt finished surface treatment, topsoil quality and application, sodding/seeding of lawn, tree and shrub planting, landscaping beds, playground fall areas and playground equipment. Contracting Officer retains the right to inspect all preparation and installation of pavings. Provide adequate notice to the Contracting Officer prior to commencing paving work.
+
+## Articles
+- [As-built drawings and record drawings](https://www.designingbuildings.co.uk/wiki/As-built_drawings_and_record_drawings)
+
