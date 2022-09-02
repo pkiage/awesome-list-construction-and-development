@@ -163,6 +163,19 @@ Examples of standards under ICS 91:
 6. **Level 6 (Interior Finishes & Fixtures-final Level)** - Exhibit final interior finishes, veneer plaster, painting, caulking, built-in shelving, cabinetwork, cabinet supported sinks, final door hardware, mechanical louvers, final electrical equipment connections, electrical fixtures, freestanding bathroom fixtures, properly functioning appliances, and operation of mechanical and electrical systems.
 7. **Level 7 (Site Finishes Level)** - Exhibit final driveway, walks, exterior stairs, final concrete and asphalt finished surface treatment, topsoil quality and application, sodding/seeding of lawn, tree and shrub planting, landscaping beds, playground fall areas and playground equipment. Contracting Officer retains the right to inspect all preparation and installation of pavings. Provide adequate notice to the Contracting Officer prior to commencing paving work.
 
+## Classifications of Alterations to Existing Buildings
+### [International Existing Building Code (IEBC) - ICC](https://codes.iccsafe.org/content/IEBC2018P5)
+#### [Classifications of Work](https://codes.iccsafe.org/content/IEBC2018P5/chapter-6-classification-of-work)
+- **Alteration - Level 1** - includes the removal and replacement or the covering of existing materials, elements, equipment, or fixtures using new materials, elements, equipment, or fixtures that serve the same purpose.
+- **Alteration - Level 2** - includes the reconfiguration of space, the addition or elimination of any door or window, the reconfiguration or extension of any system, or the installation of any additional equipment.
+- **Alteration - Level 3** - The work area exceeds 50 percent of the building area.
+  - Work area here refers to that portion or portions of a building consisting of all reconfigured spaces as indicated on the construction document. 
+  - Work area excludes other portions of the building where incidental work entailed by the intended work must be performed and portions of the building where work not initially intended by the owner is specifically required by [this code](https://codes.iccsafe.org/content/IEBC2018P5).
+- **Change of Occupancy** - A change in the purpose or level of activity within a building that involves a change in application of the requirements of [this code](https://codes.iccsafe.org/content/IEBC2018P5).
+- **Additions** - An extention or increase in floor area, number of stories, or height of a building or structure.
+- **Historic Buildings** - (in US context) Any building or structure that is listed in the State or National Register of Historic Places; designated as a historic property under local or state designation law or survey; certified as a contirbuting resource within a National Register listed or locally designated historic district; or with an option or certification that the property is eligible to be listed on the National or State Register of Historic Places either individually or as a contributing building to a historic district by the State Historic Perservation Officer or the Keeper of the National Register of Historic Places.
+- **Relocated Buildings** - Relocated or moved buildings.
+
 ## Articles
 - [As-built drawings and record drawings](https://www.designingbuildings.co.uk/wiki/As-built_drawings_and_record_drawings)
 
