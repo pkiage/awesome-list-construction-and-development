@@ -3,6 +3,7 @@
 - [Air Mobility Command Landscape Design Guide](https://www.wbdg.org/FFC/AF/AFDG/ARCHIVES/landscape.pdf)
 - [Global Product Classification (GPC)](https://gpc-browser.gs1.org/)
 - [Guidance Note on Evaluating Projects with Affected Indigenous Peoples - Equator Principles](https://equator-principles.com/app/uploads/Affected_Indigenous_People_Sep2020.pdf)
+- [International Building Code (IBC) - ICC](https://codes.iccsafe.org/content/IBC2021P2)
 - [International Existing Building Code (IEBC) - ICC](https://codes.iccsafe.org/content/IEBC2018P5)
 - [MasterFormat GROUPS, SUBGROUPS, AND DIVISIONS - 2018](https://www.designingbuildings.co.uk/wiki/MasterFormat)
 - [Operational Guidance on Free, Prior and Informed Consent - Accountability Framework](https://accountability-framework.org/operational-guidance/free-prior-and-informed-consent/)
