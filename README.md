@@ -166,15 +166,15 @@ Examples of standards under ICS 91:
 ## Classifications of Alterations to Existing Buildings
 ### [International Existing Building Code (IEBC) - ICC](https://codes.iccsafe.org/content/IEBC2018P5)
 #### [Classifications of Work](https://codes.iccsafe.org/content/IEBC2018P5/chapter-6-classification-of-work)
-- **Alteration - Level 1** - includes the removal and replacement or the covering of existing materials, elements, equipment, or fixtures using new materials, elements, equipment, or fixtures that serve the same purpose.
-- **Alteration - Level 2** - includes the reconfiguration of space, the addition or elimination of any door or window, the reconfiguration or extension of any system, or the installation of any additional equipment.
-- **Alteration - Level 3** - The work area exceeds 50 percent of the building area.
+1. **Alteration - Level 1** - includes the removal and replacement or the covering of existing materials, elements, equipment, or fixtures using new materials, elements, equipment, or fixtures that serve the same purpose.
+2. **Alteration - Level 2** - includes the reconfiguration of space, the addition or elimination of any door or window, the reconfiguration or extension of any system, or the installation of any additional equipment.
+3. **Alteration - Level 3** - The work area exceeds 50 percent of the building area.
   - Work area here refers to that portion or portions of a building consisting of all reconfigured spaces as indicated on the construction document. 
   - Work area excludes other portions of the building where incidental work entailed by the intended work must be performed and portions of the building where work not initially intended by the owner is specifically required by [this code](https://codes.iccsafe.org/content/IEBC2018P5).
-- **Change of Occupancy** - A change in the purpose or level of activity within a building that involves a change in application of the requirements of [this code](https://codes.iccsafe.org/content/IEBC2018P5).
-- **Additions** - An extention or increase in floor area, number of stories, or height of a building or structure.
-- **Historic Buildings** - (in US context) Any building or structure that is listed in the State or National Register of Historic Places; designated as a historic property under local or state designation law or survey; certified as a contirbuting resource within a National Register listed or locally designated historic district; or with an option or certification that the property is eligible to be listed on the National or State Register of Historic Places either individually or as a contributing building to a historic district by the State Historic Perservation Officer or the Keeper of the National Register of Historic Places.
-- **Relocated Buildings** - Relocated or moved buildings.
+4. **Change of Occupancy** - A change in the purpose or level of activity within a building that involves a change in application of the requirements of [this code](https://codes.iccsafe.org/content/IEBC2018P5).
+5. **Additions** - An extention or increase in floor area, number of stories, or height of a building or structure.
+6. **Historic Buildings** - (in US context) Any building or structure that is listed in the State or National Register of Historic Places; designated as a historic property under local or state designation law or survey; certified as a contirbuting resource within a National Register listed or locally designated historic district; or with an option or certification that the property is eligible to be listed on the National or State Register of Historic Places either individually or as a contributing building to a historic district by the State Historic Perservation Officer or the Keeper of the National Register of Historic Places.
+7. **Relocated Buildings** - Relocated or moved buildings.
 
 ## Articles
 - [As-built drawings and record drawings](https://www.designingbuildings.co.uk/wiki/As-built_drawings_and_record_drawings)
